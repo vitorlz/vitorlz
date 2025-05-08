@@ -1,7 +1,8 @@
-## Hello :wave:
-
 <div align="center">
-
+   
+## Hello, I'm Vitor :wave:
+   
+### Here’s What I’ve Been Working On 👇
 <table>
    <tr>
     <td colspan="3" align="center">
@@ -15,5 +16,4 @@
     <td><img src="https://github.com/user-attachments/assets/382948e3-30cd-4e41-b875-1748a8d39f7f" width="233"></td>
   </tr>
 </table>
-
 </div>
